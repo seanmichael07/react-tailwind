@@ -1,2 +1,3 @@
-# realenhance
-Website enhancement project for Real Enhance 
+# react-tailwind
+
+Template for building react and tailwind projects
